@@ -1,6 +1,6 @@
-## Bloc Frontend Project Starter
+## Bloc Frontend Project - Angular
 
-A starter application for student projects in Bloc's [Frontend Web Development Course](https://www.bloc.io/frontend-development-bootcamp).
+An angular version of my Bloc Jams web application, created for my [Frontend Web Development Course](https://www.bloc.io/frontend-development-bootcamp).
 
 ## Pull Down the Code
 
