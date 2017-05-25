@@ -7,7 +7,7 @@ An angular version of my Bloc Jams web application, created for my [Frontend Web
 Start by cloning the repository:
 
 ```
-$ git clone https://github.com/Bloc/bloc-frontend-project-starter.git <your-frontend-project-name>
+$ git clone https://github.com/BicameralMind/bloc-jams-angular
 ```
 
 ## Reset Git
